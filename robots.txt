@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-z5pulh.gitart.me/sitemap.xml
